@@ -5,7 +5,7 @@ namespace mutation\assetsmanifest;
 use craft\base\Plugin;
 use craft\web\twig\variables\CraftVariable;
 use mutation\assetsmanifest\variables\AssetsVariable;
-use mutation\filecache\models\SettingsModel;
+use mutation\assetsmanifest\models\SettingsModel;
 use yii\base\Event;
 
 class AssetsManifestPlugin extends Plugin

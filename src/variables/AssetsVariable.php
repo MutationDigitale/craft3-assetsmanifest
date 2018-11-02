@@ -3,7 +3,7 @@
 namespace mutation\assetsmanifest\variables;
 
 use mutation\assetsmanifest\AssetsManifestPlugin;
-use mutation\filecache\models\SettingsModel;
+use mutation\assetsmanifest\models\SettingsModel;
 
 class AssetsVariable
 {

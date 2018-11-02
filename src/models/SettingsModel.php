@@ -1,6 +1,6 @@
 <?php
 
-namespace mutation\filecache\models;
+namespace mutation\assetsmanifest\models;
 
 use craft\base\Model;
 
